@@ -1,0 +1,24 @@
+{
+  "name": "challenge-30",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "parcel index.html",
+    "build" : "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tinmarad/challenge-30.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tinmarad/challenge-30/issues"
+  },
+  "homepage": "https://github.com/Tinmarad/challenge-30#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
